@@ -104,17 +104,6 @@ Usage
 3.	View the fetched cryptocurrency prices and swap functionality.
 
 
-Screenshots
-
-![Ekran görüntüsü 2024-07-14 135830](https://github.com/user-attachments/assets/a5c0da14-dc4a-4c94-bfcd-fd1b27670a52)
-
-![Ekran görüntüsü 2024-07-14 135842](https://github.com/user-attachments/assets/63eae309-3e84-4adf-97d0-7276e0e638b8)
-
-![Ekran görüntüsü 2024-07-14 135853](https://github.com/user-attachments/assets/1b7a540b-777c-4534-aaac-d5c2ed4143da)
-
-Video
-
-https://www.loom.com/share/fa01ada89c9448209155aabcaf8afe6a?sid=aa960572-76d1-4638-9315-02df543596d2
 
 Troubleshooting
 
@@ -141,6 +130,19 @@ Contributions are always welcome! Please follow these steps:
 
 5.	Open a Pull Request.
 
+
+Screenshots
+
+![Ekran görüntüsü 2024-07-14 135830](https://github.com/user-attachments/assets/a5c0da14-dc4a-4c94-bfcd-fd1b27670a52)
+
+![Ekran görüntüsü 2024-07-14 135842](https://github.com/user-attachments/assets/63eae309-3e84-4adf-97d0-7276e0e638b8)
+
+![Ekran görüntüsü 2024-07-14 135853](https://github.com/user-attachments/assets/1b7a540b-777c-4534-aaac-d5c2ed4143da)
+
+
+Video
+
+https://www.loom.com/share/fa01ada89c9448209155aabcaf8afe6a?sid=aa960572-76d1-4638-9315-02df543596d2
 
 License
 
